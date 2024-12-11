@@ -1,3 +1,0 @@
-Assign House Request: Tenant ID: 42, House Number: ROOM A1
-Assign House Request: Tenant ID: 42, House Number: ROOM A1
-Assign House Request: Tenant ID: 43, House Number: ROOM A1
